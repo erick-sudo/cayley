@@ -1,0 +1,94 @@
+html{
+	background-color: rgb(0,0,0);
+	color: white;
+	font-family: monospace;
+}
+h1{
+	text-align: center;
+	font-size: 3em;
+	text-shadow: .05em .05em .06em white;
+	color: black;
+}
+#s{
+	font-size: 2.5em;
+	color: lime;
+}
+#num{
+	font-size: 1.5em;
+	width: 1.5em;
+	background-color: inherit;
+	margin-left: 2%;
+	border: none;
+}
+#navL{
+	background-color: rgba(255, 255, 255, .2);
+	border-radius: 10px;
+	padding: 1.5em;
+	green: blue;
+}
+#btn{
+	border-radius: 10px;
+	background-color: rgba(0,30,0,.6);
+	padding: 0.5em;
+	float: right;
+	margin-left: 2%;
+	color: white;
+	font-size: 1.5em;
+	border: none;
+	font-weight: bolder;
+	box-shadow: .1em .1em .1em white;
+}
+#btn:hover{
+	background-color: rgb(0, 80, 0);
+	color: black;
+	box-shadow: inset .1em .1em .1em white;
+}
+
+table{
+	font-size: 2em;
+	font-family: monospace;
+	margin-top: 2%;
+
+}
+
+th, td{
+	text-align: center;
+	border-radius: 0.4em;
+	margin: 1.5em;
+	padding: 0.2em .6em;
+	box-shadow: inset .05em .05em .05em rgba(250, 80, 0, 0.5)
+}
+
+th{
+	background-color: rgba(0, 80, 0, 0.7);
+}
+td{
+	background-color: rgba(0, 80, 0, 0.2);
+}
+td:hover{
+	background-color: blue;
+}
+#operator{
+	color: lime;
+}
+#leg{
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#outer{
+	margin-top: 2%;
+	border-radius: 0.6em;
+	border: .5px solid rgba(250, 80, 0, 0.2);
+}
+#cont{
+	text-align: center;
+}
+#tbl{
+	overflow-x: auto;
+	width: 95%;
+	margin: auto;
+}
+table{
+	width: 100%;
+}
