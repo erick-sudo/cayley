@@ -1,0 +1,9 @@
+{
+	"name" : "cayley",
+	"description" : "A cayley table generator for the group of permutations of Symmetric groups",
+	"keywords" : ["Groups Theory","Symmetric Groups"],
+	"dependencies" : [],
+	"repository" : {"type":"git","url":"git://github.com/erick-sudo/cayley-table.git"},
+	"main" : "group.js",
+	"version" : "0.0.0"
+}
