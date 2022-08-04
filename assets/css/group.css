@@ -92,3 +92,6 @@ td:hover{
 table{
 	width: 100%;
 }
+tr{
+	tr:nth-child(even) {background: #CCC;
+}
